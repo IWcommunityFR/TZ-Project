@@ -2,7 +2,7 @@
 
 
 
-   ## [Download](https://github.com/TZ-FiveM/TZ-Project/releases/download/TZ-Project/TZ.zip)
+   ## [Download](https://github.com/IWcommunityFR/TZ-Launcher/releases/download/TZ-Launcher/TZ.zip)
 
 Features :
 - Aimbot ( Visible check, magic bullet, adaptive weapon, fov, smooth, distance)
